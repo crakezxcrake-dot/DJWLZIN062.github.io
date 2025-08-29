@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .texto-grande {
+      font-size: 50px;
+    }
+  </style>
+</head>
+<body>
+
+<p class="texto-grande">Fonte bem grande usando classe CSS!</p>
+
+</body>
+</html>
